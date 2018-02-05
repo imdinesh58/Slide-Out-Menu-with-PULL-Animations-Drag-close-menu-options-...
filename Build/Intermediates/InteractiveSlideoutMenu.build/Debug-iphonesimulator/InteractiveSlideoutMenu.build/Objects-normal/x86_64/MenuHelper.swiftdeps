@@ -1,0 +1,291 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Direction"
+- "MenuHelper"
+provides-nominal:
+- "23InteractiveSlideoutMenu9DirectionO"
+- "23InteractiveSlideoutMenu0C6HelperV"
+provides-member:
+- ["23InteractiveSlideoutMenu9DirectionO", ""]
+- ["23InteractiveSlideoutMenu0C6HelperV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "-"
+- !private "/"
+- "=="
+- !private ">"
+- "AssignmentPrecedence"
+- "CGFloat"
+- "CGPoint"
+- "CGRect"
+- "Direction"
+- !private "Float"
+- "FloatLiteralType"
+- "IntegerLiteralType"
+- "Interactor"
+- "MenuHelper"
+- "TernaryPrecedence"
+- "UIGestureRecognizerState"
+- !private "fmaxf"
+- !private "fminf"
+depends-member:
+- !private ["s19BinaryFloatingPointP", "init"]
+- !private ["s13BinaryIntegerP", "hashValue"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["12CoreGraphics7CGFloatV", "init"]
+- !private ["SC7CGPointV", "x"]
+- !private ["SC7CGPointV", "y"]
+- !private ["SC6CGRectV", "height"]
+- !private ["SC6CGRectV", "width"]
+- !private ["s7CVarArgP", "cancel"]
+- !private ["s7CVarArgP", "finish"]
+- !private ["s7CVarArgP", "hasStarted"]
+- !private ["s7CVarArgP", "hashValue"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "shouldFinish"]
+- !private ["s7CVarArgP", "update"]
+- !private ["s10ComparableP", "hashValue"]
+- !private ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "cancel"]
+- !private ["s28CustomDebugStringConvertibleP", "finish"]
+- !private ["s28CustomDebugStringConvertibleP", "hasStarted"]
+- !private ["s28CustomDebugStringConvertibleP", "height"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "shouldFinish"]
+- !private ["s28CustomDebugStringConvertibleP", "update"]
+- !private ["s28CustomDebugStringConvertibleP", "width"]
+- !private ["s28CustomDebugStringConvertibleP", "x"]
+- !private ["s28CustomDebugStringConvertibleP", "y"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "hashValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "height"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "width"]
+- !private ["s29CustomPlaygroundQuickLookableP", "x"]
+- !private ["s29CustomPlaygroundQuickLookableP", "y"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "hashValue"]
+- !private ["s17CustomReflectableP", "height"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "width"]
+- !private ["s17CustomReflectableP", "x"]
+- !private ["s17CustomReflectableP", "y"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "cancel"]
+- !private ["s23CustomStringConvertibleP", "finish"]
+- !private ["s23CustomStringConvertibleP", "hasStarted"]
+- !private ["s23CustomStringConvertibleP", "hashValue"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "shouldFinish"]
+- !private ["s23CustomStringConvertibleP", "update"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "hashValue"]
+- !private ["s9DecodableP", "height"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "width"]
+- !private ["s9DecodableP", "x"]
+- !private ["s9DecodableP", "y"]
+- ["23InteractiveSlideoutMenu9DirectionO", "__derived_enum_equals"]
+- ["23InteractiveSlideoutMenu9DirectionO", "deinit"]
+- ["23InteractiveSlideoutMenu9DirectionO", "down"]
+- ["23InteractiveSlideoutMenu9DirectionO", "hashValue"]
+- ["23InteractiveSlideoutMenu9DirectionO", "left"]
+- ["23InteractiveSlideoutMenu9DirectionO", "right"]
+- ["23InteractiveSlideoutMenu9DirectionO", "up"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "hashValue"]
+- !private ["s9EncodableP", "height"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "width"]
+- !private ["s9EncodableP", "x"]
+- !private ["s9EncodableP", "y"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- ["s9EquatableP", "began"]
+- !private ["s9EquatableP", "cancel"]
+- ["s9EquatableP", "cancelled"]
+- ["s9EquatableP", "changed"]
+- ["s9EquatableP", "down"]
+- ["s9EquatableP", "ended"]
+- !private ["s9EquatableP", "finish"]
+- !private ["s9EquatableP", "hasStarted"]
+- ["s9EquatableP", "hashValue"]
+- !private ["s9EquatableP", "height"]
+- !private ["s9EquatableP", "init"]
+- ["s9EquatableP", "left"]
+- ["s9EquatableP", "right"]
+- !private ["s9EquatableP", "shouldFinish"]
+- ["s9EquatableP", "up"]
+- !private ["s9EquatableP", "update"]
+- !private ["s9EquatableP", "width"]
+- !private ["s9EquatableP", "x"]
+- !private ["s9EquatableP", "y"]
+- ["s9EquatableP", ""]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s25ExpressibleByFloatLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "hashValue"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s17FixedWidthIntegerP", "hashValue"]
+- !private ["Sf", "init"]
+- !private ["s13FloatingPointP", "init"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- ["s8HashableP", "began"]
+- !private ["s8HashableP", "cancel"]
+- ["s8HashableP", "cancelled"]
+- ["s8HashableP", "changed"]
+- ["s8HashableP", "down"]
+- ["s8HashableP", "ended"]
+- !private ["s8HashableP", "finish"]
+- !private ["s8HashableP", "hasStarted"]
+- ["s8HashableP", "hashValue"]
+- !private ["s8HashableP", "init"]
+- ["s8HashableP", "left"]
+- ["s8HashableP", "right"]
+- !private ["s8HashableP", "shouldFinish"]
+- ["s8HashableP", "up"]
+- !private ["s8HashableP", "update"]
+- ["s8HashableP", ""]
+- !private ["Si", "hashValue"]
+- !private ["23InteractiveSlideoutMenu10InteractorC", "cancel"]
+- !private ["23InteractiveSlideoutMenu10InteractorC", "finish"]
+- !private ["23InteractiveSlideoutMenu10InteractorC", "hasStarted"]
+- !private ["23InteractiveSlideoutMenu10InteractorC", "shouldFinish"]
+- !private ["23InteractiveSlideoutMenu10InteractorC", "update"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "hashValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- ["23InteractiveSlideoutMenu0C6HelperV", "CGFloat"]
+- ["23InteractiveSlideoutMenu0C6HelperV", "CGPoint"]
+- ["23InteractiveSlideoutMenu0C6HelperV", "CGRect"]
+- ["23InteractiveSlideoutMenu0C6HelperV", "Direction"]
+- !private ["23InteractiveSlideoutMenu0C6HelperV", "Float"]
+- ["23InteractiveSlideoutMenu0C6HelperV", "Interactor"]
+- ["23InteractiveSlideoutMenu0C6HelperV", "UIGestureRecognizerState"]
+- ["23InteractiveSlideoutMenu0C6HelperV", "calculateProgress"]
+- !private ["23InteractiveSlideoutMenu0C6HelperV", "fmaxf"]
+- !private ["23InteractiveSlideoutMenu0C6HelperV", "fminf"]
+- ["23InteractiveSlideoutMenu0C6HelperV", "init"]
+- ["23InteractiveSlideoutMenu0C6HelperV", "mapGestureStateToInteractor"]
+- ["23InteractiveSlideoutMenu0C6HelperV", "menuWidth"]
+- ["23InteractiveSlideoutMenu0C6HelperV", "percentThreshold"]
+- ["23InteractiveSlideoutMenu0C6HelperV", "snapshotNumber"]
+- !private ["s10MirrorPathP", "hashValue"]
+- !private ["So8NSObjectC", "cancel"]
+- !private ["So8NSObjectC", "finish"]
+- !private ["So8NSObjectC", "hasStarted"]
+- !private ["So8NSObjectC", "shouldFinish"]
+- !private ["So8NSObjectC", "update"]
+- !private ["So16NSObjectProtocolP", "cancel"]
+- !private ["So16NSObjectProtocolP", "finish"]
+- !private ["So16NSObjectProtocolP", "hasStarted"]
+- !private ["So16NSObjectProtocolP", "shouldFinish"]
+- !private ["So16NSObjectProtocolP", "update"]
+- !private ["s7NumericP", "hashValue"]
+- !private ["s7NumericP", "init"]
+- ["s16RawRepresentableP", "began"]
+- ["s16RawRepresentableP", "cancelled"]
+- ["s16RawRepresentableP", "changed"]
+- ["s16RawRepresentableP", "ended"]
+- !private ["s13SignedIntegerP", "hashValue"]
+- !private ["s13SignedNumericP", "hashValue"]
+- !private ["s13SignedNumericP", "init"]
+- !private ["s10StrideableP", "hashValue"]
+- !private ["s10StrideableP", "init"]
+- ["SC24UIGestureRecognizerStateO", "began"]
+- ["SC24UIGestureRecognizerStateO", "cancelled"]
+- ["SC24UIGestureRecognizerStateO", "changed"]
+- ["SC24UIGestureRecognizerStateO", "ended"]
+- !private ["So36UIPercentDrivenInteractiveTransitionC", "cancel"]
+- !private ["So36UIPercentDrivenInteractiveTransitionC", "finish"]
+- !private ["So36UIPercentDrivenInteractiveTransitionC", "hasStarted"]
+- !private ["So36UIPercentDrivenInteractiveTransitionC", "shouldFinish"]
+- !private ["So36UIPercentDrivenInteractiveTransitionC", "update"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "cancel"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "finish"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "hasStarted"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "shouldFinish"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "update"]
+- !private ["s18_BitwiseOperationsP", "hashValue"]
+- !private ["s15_CVarArgAlignedP", "init"]
+- !private ["s22_CVarArgPassedAsDoubleP", "init"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s33_ExpressibleByBuiltinFloatLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "hashValue"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cancel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "finish"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "hasStarted"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "shouldFinish"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "update"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "hashValue"]
+- !private ["s21_ObjectiveCBridgeableP", "height"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "width"]
+- !private ["s21_ObjectiveCBridgeableP", "x"]
+- !private ["s21_ObjectiveCBridgeableP", "y"]
+- !private ["s11_StrideableP", "hashValue"]
+- !private ["s11_StrideableP", "init"]
+depends-nominal:
+- !private "s19BinaryFloatingPointP"
+- !private "s13BinaryIntegerP"
+- !private "Sb"
+- !private "12CoreGraphics7CGFloatV"
+- !private "SC7CGPointV"
+- !private "SC6CGRectV"
+- !private "s7CVarArgP"
+- !private "s10ComparableP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- "23InteractiveSlideoutMenu9DirectionO"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s17FixedWidthIntegerP"
+- !private "Sf"
+- !private "s13FloatingPointP"
+- "s8HashableP"
+- !private "Si"
+- !private "23InteractiveSlideoutMenu10InteractorC"
+- !private "s25LosslessStringConvertibleP"
+- "23InteractiveSlideoutMenu0C6HelperV"
+- !private "s10MirrorPathP"
+- !private "So8NSObjectC"
+- !private "So16NSObjectProtocolP"
+- !private "s7NumericP"
+- "s16RawRepresentableP"
+- !private "s13SignedIntegerP"
+- !private "s13SignedNumericP"
+- !private "s10StrideableP"
+- "SC24UIGestureRecognizerStateO"
+- !private "So36UIPercentDrivenInteractiveTransitionC"
+- !private "So40UIViewControllerInteractiveTransitioningP"
+- !private "s18_BitwiseOperationsP"
+- !private "s15_CVarArgAlignedP"
+- !private "s22_CVarArgPassedAsDoubleP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s33_ExpressibleByBuiltinFloatLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s11_StrideableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "efd28b5deba9ee3f6d9731e049f6875c"

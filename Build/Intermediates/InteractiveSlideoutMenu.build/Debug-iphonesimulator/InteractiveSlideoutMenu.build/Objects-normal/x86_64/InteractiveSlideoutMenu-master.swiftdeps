@@ -1,0 +1,11 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "ab3afe14bce3f5b6be89aee273421730"
+build_time: [1517816715, 192684000]
+inputs:
+  "/Users/apple-1/Downloads/InteractiveSlideOutMenua-master/InteractiveSlideoutMenu/MainViewController.swift": [1517816627, 0]
+  "/Users/apple-1/Downloads/InteractiveSlideOutMenua-master/InteractiveSlideoutMenu/MenuViewController.swift": [1517816715, 0]
+  "/Users/apple-1/Downloads/InteractiveSlideOutMenua-master/InteractiveSlideoutMenu/Interactor.swift": [1516643314, 0]
+  "/Users/apple-1/Downloads/InteractiveSlideOutMenua-master/InteractiveSlideoutMenu/DismissMenuAnimator.swift": [1516643314, 0]
+  "/Users/apple-1/Downloads/InteractiveSlideOutMenua-master/InteractiveSlideoutMenu/PresentMenuAnimator.swift": [1516643314, 0]
+  "/Users/apple-1/Downloads/InteractiveSlideOutMenua-master/InteractiveSlideoutMenu/MenuHelper.swift": [1516643314, 0]
+  "/Users/apple-1/Downloads/InteractiveSlideOutMenua-master/InteractiveSlideoutMenu/AppDelegate.swift": [1516643314, 0]
